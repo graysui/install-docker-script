@@ -8,10 +8,6 @@
 
 #### 使用 wget
 ```sh
-wget -qO- https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
-
-### 使用 curl
-```sh
-curl -sSL https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
+wget -qO- https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | bash
 
 
