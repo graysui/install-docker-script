@@ -10,5 +10,5 @@
 ```sh
 curl -sSL https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
 
-### 使用 wget
+#### 使用 wget
 wget -qO- https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
