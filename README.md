@@ -7,7 +7,7 @@
 运行以下命令以下载并执行脚本：
 
 #### 使用 wget
-sh
+```sh
 wget -qO- https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
 
 ### 使用 curl
