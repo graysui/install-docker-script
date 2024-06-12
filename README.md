@@ -8,3 +8,6 @@ Run the following command to download and execute the script:
 
 ```sh
 curl -sSL https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
+
+```sh
+wget -qO- https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
