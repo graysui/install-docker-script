@@ -1,13 +1,14 @@
-# Install Docker Script
+# Docker 安装脚本
 
-This script installs Docker and Docker Compose on your Debian-based system.
+此脚本在您的 Debian 系统上安装 Docker 和 Docker Compose。
 
-## Usage
+## 使用方法
 
-Run the following command to download and execute the script:
+运行以下命令以下载并执行脚本：
 
+### 使用 curl
 ```sh
 curl -sSL https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
 
-```sh
+### 使用 wget
 wget -qO- https://raw.githubusercontent.com/graysui/install-docker-script/main/install_docker.sh | sudo bash
